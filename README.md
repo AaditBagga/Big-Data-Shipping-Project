@@ -3,6 +3,7 @@
 <h2>Team members</h2>
 Riya Rajeshkumar Jain 801254411
 
+
 Chris Overcash 800939915
 
 Aditya Nitinbhai Thakkar 801272248
@@ -80,7 +81,7 @@ Below is another visualization we executed which shows the length of time that p
 
 ![image](https://user-images.githubusercontent.com/91394443/200417915-8e8d34af-ff40-4069-ad53-9d223b983177.png)
 
-The visualization below shows the correlation between a patients race and their diagnosis of diabetes. As the graph represents, a vast majority of diabetic patients were Caucasian, (greater than any other race by about 50,000 patients).
+The visualization below shows the correlation between a patients race and their diagnosis of diabetes. As the graph represents, a vast majority of diabetic patients were Caucasian, (greater than any other race by about 50,000 patients) Whereas, least number of patients were Asian with only 641 patients
 
 ![image](https://user-images.githubusercontent.com/91394443/200417990-84a52f94-9734-4c42-8876-6e0a03abede4.png)
 
@@ -98,7 +99,7 @@ The last visualization we executed was to see how long most patients stayed in t
 
 <h2>Dashboard</h2>
 
-Below are the graphs we used for the dashboard. This was created using Amazon Quicksight. Due to cost limitations, the dashboard cannot be exported. These graphs give a great overview of what we are trying to analyze, the correlations between age, gender and race and diabetes diagnosis/hospital readmissions. A screenshot of our Quicksight dashboard is shown in the screenshot below.
+Below are the graphs we used for the dashboard. This was created using Amazon Quicksight. Due to cost limitations, the dashboard cannot be exported. These graphs give a great overview of what we are trying to analyze, the correlations between age, gender and race and hospital readmissions. A screenshot of our Quicksight dashboard is shown in the screenshot below.
 
 ![Quicksight Dashboard](https://user-images.githubusercontent.com/91394443/200450619-34da1e71-6b66-4360-9854-e886aabb3c04.png)
 
