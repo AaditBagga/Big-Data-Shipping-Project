@@ -122,9 +122,9 @@ Here we are using Random Forest Classifier to predict the data. In this model we
 ![Screen Shot 2022-12-11 at 12 24 02 AM](https://user-images.githubusercontent.com/50045937/206887932-b0945d60-6e1d-4389-9def-0101b3972fd4.png)
 ![Screen Shot 2022-12-11 at 12 30 33 AM](https://user-images.githubusercontent.com/50045937/206888077-e8218a52-db16-4d89-a0f5-575494b82f91.png)
 
-<h3>Super Vector Machine</h3>
+<h3>Support Vector Machine</h3>
 
-Here we are using another model called Super vector Machine. In this model we are comparing both datas for readmissions. There is a comparison graph for the predicted data and actual data that shows the comparison between how much readmision happened or not with predicted and actual data. This model is also as acurate as the Random Forest Classifier. We can compare result for the both and they are almost same.
+Here we are using another model called Support vector Machine. In this model we are comparing both datas for readmissions. There is a comparison graph for the predicted data and actual data that shows the comparison between how much readmision happened or not with predicted and actual data. This model is also as acurate as the Random Forest Classifier. We can compare result for the both and they are almost same.
 
 ![Screen Shot 2022-12-11 at 12 27 06 AM](https://user-images.githubusercontent.com/50045937/206887995-956b50a3-3feb-4482-bbae-3076d7369f8e.png)
 ![Screen Shot 2022-12-11 at 12 31 12 AM](https://user-images.githubusercontent.com/50045937/206888096-43e30ce8-dbeb-4654-b262-40e0384d5a77.png)
